@@ -1,2 +1,9 @@
+mysql:8.2.0
+redis:7.2.3
+elasticsearch:8.13.0
+kibana:8.13.0
+minio/minio:RELEASE.2023-10-24T04-42-36Z
+elastic/filebeat:8.13.0
+elastic/metricbeat:8.13.0
 openjdk:21-slim
 nacos/nacos-server:v2.3.2
