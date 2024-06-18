@@ -1,0 +1,86 @@
+.DS_Store
+thumbs.db
+.env
+.efk-data
+.minio-data
+.mysql-data
+.redis-data
+/backend/data/
+/yolov5/data/
+target/
+
+# Node.js 生成的文件和目录
+dist/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA 生成的文件
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Java 编译文件
+*.class
+
+# 日志文件
+logs
+*.log
+
+# 打包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 但保留指定的jar文件，即使它们在子目录中
+!**/arthas-boot.jar
+!**/x-pack-core-*.jar
+
+# 虚拟机崩溃日志
+hs_err_pid*
+
+# Maven 生成的文件
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# JetBrains IDE 生成的用户特定文件
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# 敏感或高频率变化的文件
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle 生成的文件
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Mongo Explorer 插件生成的文件
+.idea/**/mongoSettings.xml
+
+# IntelliJ 输出文件夹
+out/
