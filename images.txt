@@ -7,3 +7,4 @@ elastic/filebeat:8.13.0
 elastic/metricbeat:8.13.0
 openjdk:21-slim
 nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.3.2-slim
