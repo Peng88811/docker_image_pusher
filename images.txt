@@ -1,1 +1,16 @@
+mysql:8.2.0
+redis:7.2.3
+alpine:3.19
 nginx:1.24.0-alpine-slim
+openjdk:21-slim
+node:16-slim
+elasticsearch:8.13.0
+kibana:8.13.0
+elastic/filebeat:8.13.0
+elastic/metricbeat:8.13.0
+minio/minio:RELEASE.2023-10-24T04-42-36Z
+elastic/filebeat:8.13.0
+elastic/metricbeat:8.13.0
+nacos/nacos-server:v2.3.2-slim
+rabbitmq:3.13.3-management
+minio/minio:RELEASE.2023-10-24T04-42-36Z
